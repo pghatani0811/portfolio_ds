@@ -58,7 +58,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Handwritten Digit Recognisation](https://github.com/pghatani0811/Deep-Natural-Networks)
 
-<img src="HandWritten Project.png?raw=true"/>
+<img src="images/HandWritten Project.png?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
